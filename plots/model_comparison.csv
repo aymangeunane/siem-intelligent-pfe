@@ -1,0 +1,4 @@
+,AUC-ROC,Precision,Recall,F1-score
+Isolation Forest,0.3538,0.0645,0.005,0.0093
+Autoencoder,0.2515,0.0421,0.0037,0.0068
+LSTM,1.0,0.9998,0.9994,0.9996
